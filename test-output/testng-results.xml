@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30977" started-at="2020-01-13T14:03:51Z" finished-at="2020-01-13T14:04:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30977" started-at="2020-01-13T14:03:51Z" finished-at="2020-01-13T14:04:22Z">
+      <class name="tests.EmailApp">
+        <test-method status="PASS" signature="Emial_Test()[pri:0, instance:tests.EmailApp@4abdb505]" name="Emial_Test" duration-ms="30904" started-at="2020-01-13T14:03:51Z" finished-at="2020-01-13T14:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emial_Test -->
+      </class> <!-- tests.EmailApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
